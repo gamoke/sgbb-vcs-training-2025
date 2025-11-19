@@ -9,3 +9,4 @@ Không dùng cho mục đích production.
 - Merge và xử lý conflict
 - Tag phiên bản + ghi changelog
 - Xoá & khôi phục file
+<img width="1412" height="604" alt="image" src="https://github.com/user-attachments/assets/8b42d81e-815c-455a-a9dc-733c7d01ec11" />
